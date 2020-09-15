@@ -20,8 +20,6 @@
 </ul>
 <br>
 <h1>Examples of code</h1>
-<p>This code was written during the Harvard CS 50 course</p>
-
 <br>
 <h1> Work experience </h1>
 <br>
