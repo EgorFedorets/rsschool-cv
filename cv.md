@@ -2,7 +2,7 @@
 <h3>tel: +7 921 437 51 86 </h3>
 <h3>email: 9843976@gmail.com </h3>
 <h3><a href = "https://www.facebook.com/egor.fedorets"> facebook</a></h3>
-</br>
+<br>
 <h1>About me</h1>
 <ul>
 <li> Ex. mountain guide who lost his job during COVID-19 and decided change profession to frontend developer.</li>
