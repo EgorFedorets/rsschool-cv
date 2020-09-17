@@ -1,0 +1,28 @@
+body {
+   background-color: rgb(255, 255, 255);
+}
+
+header {
+   background-color: #5D6D7E;
+   padding: 20px;
+   margin: auto 200px;
+   display: flex;
+   justify-content: space-between;
+   
+}
+
+main {
+   background-color: #A3B5C7;
+   padding: 20px;
+   margin: auto 200px;
+}
+
+li {
+   font-size: 20px;
+}
+
+img {
+   width: 260px;
+   height: 260px;
+   
+}   
